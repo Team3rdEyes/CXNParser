@@ -1,0 +1,2 @@
+# CXNParser - A parser for Cosmix Note file.
+Our arcade game was powered by an inspirational method of beatmapping that is, BMS. Parsers allowed the game to read the files like ".bms" or ".bmson" and the game will, generate notes depending on the mapping file itself. For our game, we decided to created a parser to parse the ".cxn" files (Cosmix Note File). The parser is written in Java for flexibility, performance and we wanted to find an easy way to code also, it has compatibility with C++ and C# (depends on external libraries).
