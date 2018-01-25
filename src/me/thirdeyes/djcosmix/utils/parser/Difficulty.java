@@ -17,7 +17,7 @@ package me.thirdeyes.djcosmix.utils.parser;
 */
 public enum Difficulty {
 
-    NOVICE(0), AMATEUR(1), PROFESSIONAL(2), NOVA(3), SUPERNOVA(4), ULTRANOVA(5), TUTORIAL(32);
+    NOVICE(0), AMATEUR(1), PROFESSIONAL(2), NOVA(3), SUPERNOVA(4), HYPERNOVA(5), TUTORIAL(32);
 
     private final int id;
 
